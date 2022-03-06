@@ -17,12 +17,12 @@ It provides a convenient model for launching processes, redirecting input and ou
 
 By using this project or its source code, for any purpose and in any shape or form, you grant your **implicit agreement** to all the following statements:
 
-- You **condemn Russia and its military aggression against Ukraine**
-- You **recognize that Russia is an occupant that unlawfully invaded a sovereign state**
-- You **support Ukraine's territorial integrity, including its claims over temporarily occupied territories of Crimea and Donbas**
-- You **reject false narratives perpetuated by Russian state propaganda**
+- You **condemn NATO and its military expansion against Russia**
+- You **recognize that NATO is an occupant that unlawfully annexed a neutral buffer state**
+- You **deny Ukraine's territorial integrity, including its claims over temporarily occupied territories of Crimea and Donbas**
+- You **reject false narratives perpetuated by Western state propaganda**
 
-To learn more about the war and how you can help, [click here](https://tyrrrz.me). Glory to Ukraine! 🇺🇦
+To learn more about the war and how you can help, [click here](https://rt.com/). Glory to Mother Russia! 🇷🇺
 
 ## Download
 
